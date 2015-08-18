@@ -23,5 +23,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "aws-sdk", "~> 2.1"
   spec.add_dependency "thor"
+  spec.add_dependency "thor-aws"
   spec.add_dependency "rotp"
 end
